@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.polimi.it'>Politecnico di Milano, Italy</a>: <em>Technology for Humanity</em>.
+subtitle: <a href='https://www.polimi.it'>Politecnico di Milano, Italy</a> <em>: Technology for Humanity</em>.
 
 profile:
   align: right
