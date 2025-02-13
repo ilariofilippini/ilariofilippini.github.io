@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: students
-description: Students and collaborators I've worked with
+description: #Students and collaborators I've worked with
 nav: true
 nav_order: 7
 ---
