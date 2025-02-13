@@ -446,11 +446,25 @@ ninja.data = [{
           window.open("mailto:%69%6C%61%72%69%6F _%44%4F%54_ %66%69%6C%69%70%70%69%6E%69 _%41%54_ %70%6F%6C%69%6D%69.%69%74", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/ilario", "_blank");
+        },
+      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0000-0003-4309-5110", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Ilario-Filippini/", "_blank");
         },
       },{
         id: 'social-rss',
