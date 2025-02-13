@@ -7,7 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-
 I am currently teaching the following courses at Politecnico di Milano:
 
 - **054657 Traffic Theory** (AY 2019/20 - ): The goal of the course is to provide students with the methodologies needed to model, design, and analyze the performance of telecommunication networks and distributed IT systems, which are the main building blocks of the Internet
@@ -23,4 +22,3 @@ Past courses:
 - Planning and Resource Management Models in Wireless Networks (Politecnico di Milano - AY 2016/17)
 - Communication Networks and Internet (Politecnico di Milano - AY 2012/13, 2013/14, 2014/15)
 - Fundamentals of Networks and Telecommunications (Università di Bergamo - AY 2010/11, 2011/12)
-
