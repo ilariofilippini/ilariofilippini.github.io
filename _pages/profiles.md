@@ -11,18 +11,18 @@ My research interests focus on wireless networks, touching theoretical, simulati
 
 <hr>
 
-## PhD Students
+### PhD Students
 
 - Viola Bernazzoli (2023 - ): Next-Generation Radio Access Networks for Smart Radio Environments
 - Marcello Morini (2022 - ): System level analysis and experimentation of high-frequency access networks with advanced architectures towards 6G
 - Paolo Fiore (2021 - ): Resource Management and Optimization for Wireless Networks in Reconfigurable Environments
 
-## Graduate Students
+### Graduate Students
 
 - Zahra Asgari (2024 - ): Planning Radio Access Networks in Smart Radio Environments
 - Tugay Ozel (2024 - ): Impact of transport protocols on mm-wave access
 
-## Alumni
+### Alumni
 
 - Eugenio Moro - PhD 2023 (co-advised with Antonio Capone):
 
