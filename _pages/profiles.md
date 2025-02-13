@@ -13,12 +13,12 @@ My research interests focus on wireless networks, touching theoretical, simulati
 
 ## PhD Students
 
-TBD
+- TBD
 
 ## Graduate Students
 
-TBD
+- TBD
 
 ## Alumni
 
-TBD
+- TBD
