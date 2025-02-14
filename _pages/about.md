@@ -28,6 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm an Associate Professor at the Dipartimento di Elettronica, Informazione e Bioingegneria of Politecnico di Milano. I received an M.S. in Telecommunication Engineering and a Ph.D. in Information Engineering from Politecnico di Milano in 2005 and 2009, respectively. From February 2008 to August 2008, I was visiting the Department of Electrical and Computer Engineering of The Ohio State University in Columbus (OH) working on routing in Cognitive Radio Networks.
+I'm an Associate Professor at the Dipartimento di Elettronica, Informazione e Bioingegneria of Politecnico di Milano. I received an M.S. in Telecommunication Engineering and a Ph.D. in Information Engineering from Politecnico di Milano in 2005 and 2009, respectively. 
 
-I work on networking topics, my main research activities include radio resource management and optimization in wireless networks, programmable networks, and smart radio environments. I serve in the Technical Program Committee of major conferences in Networking and as an Editor of Computer Networks (Elsevier). I'm IEEE Senior Member.
+I work on networking topics, my main research activities include radio resource management and optimization in wireless networks, programmable networks, and smart radio environments. I serve in the Technical Program Committee of major conferences in Networking and as an Editor of Computer Networks (Elsevier). 
+
+My coauthors and I received the _Best Paper Award_ at the IEEE International Symposium on Personal, Indoor, and Mobile Radio Communications, _IEEE PIMRC 2025_ and the _Runner-up Best Paper Award_ at the IEEE Mediterranean Communication and Computer Networking Conference, _IEEE MedComNet 2020_. Additionally, I was a _Distinguished Member_ of the Technical Program Committee for IEEE INFOCOM in 2018, 2019, 2022, and 2023.
+
+I'm an IEEE Senior Member.
