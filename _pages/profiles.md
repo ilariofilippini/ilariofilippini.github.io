@@ -22,27 +22,22 @@ My research interests focus on wireless networks, touching theoretical, simulati
 - [Zahra Asgari]() (2024 - ): Planning Radio Access Networks in Smart Radio Environments
 - [Tugay Ozel]() (2024 - ): Impact of transport protocols on mm-wave access
 
-### Alumni
+### PhD Alumni
 
 - Eugenio Moro - PhD 2023 (co-advised with Antonio Capone):
-
   - Thesis: A system-level perspective on new services and technologies for radio access networks
   - Assistant Professor with Politecnico di Milano
-
 - Bibo Zhang – PhD 2022:
-
   - Thesis: Reinforcement Learning techniques in 5G Networks
   - Lecturer with the Ocean College, Jiangsu University of Science and Technology, Zhenjiang, China
-
 - Francesco Devoti - PhD 2019 (co-advised with Antonio Capone):
-
   - Thesis: Context-aware resource management and network design in 5G millimeter wave access networks
   - Senior Research Scientist at NEC Laboratories Europe
-
 - Vincenzo Sciancalepore - PhD 2015 (co-advised with Antonio Capone):
-
   - Thesis: Enhancements in spectrum management techniques for heterogeneous 5G future network
   - Principal Researcher at NEC Laboratories Europe
+
+### Graduate Alumni
 
 - Claudia Baz Alvarez – MS 2024: O-RAN-Based Real-Time Positioning in 5G Networks: A Preliminary Analysis Using Uplink SRS
 - Niloufar Dinipour – MS 2024: Fronthaul-aware Radio Resource Management in Wireless C-RAN for 5G Networks
