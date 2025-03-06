@@ -16,6 +16,8 @@ My research interests focus on wireless networks, touching theoretical, simulati
 - [Viola Bernazzoli]() (2023 - ): Next-Generation Radio Access Networks for Smart Radio Environments
 - [Marcello Morini]() (2022 - ): System level analysis and experimentation of high-frequency access networks with advanced architectures towards 6G
 - [Paolo Fiore]() (2021 - ): Resource Management and Optimization for Wireless Networks in Reconfigurable Environments
+- [Franci Gjeci]() (2020 - ) (co-advised with Antonio Capone): Programmable Self-Organizing Radio Access Networks
+
 
 ### Graduate Students
 
