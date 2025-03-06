@@ -19,6 +19,7 @@ My research interests focus on wireless networks, touching theoretical, simulati
 
 ### Graduate Students
 
+- [Alberto Ceresoli]() (2025 - ): UE positioning microservices in O-RAN 5G networks
 - [Zahra Asgari]() (2024 - ): Planning Radio Access Networks in Smart Radio Environments
 - [Tugay Ozel]() (2024 - ): Impact of transport protocols on mm-wave access
 
