@@ -26,7 +26,6 @@ My research interests focus on wireless networks, touching theoretical, simulati
 - [Alberto Ceresoli]() (2025 - ): UE positioning microservices in O-RAN 5G networks
 - [Nadia Sadeghi]() (2025 - ): Domain-specific LLM
 - [Melanny Davila]() (2024 - ): Phase recovery and localization
-- 
 
 ### PhD Alumni
 
