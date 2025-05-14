@@ -13,6 +13,7 @@ My research interests focus on wireless networks, touching theoretical, simulati
 
 ### PhD Students
 
+- [Chiara Rubaltelli]() (2025 - ): Designing Next-Generation Radio Access Networks
 - [Viola Bernazzoli]() (2023 - ): Next-Generation Radio Access Networks for Smart Radio Environments
 - [Marcello Morini]() (2022 - ): System level analysis and experimentation of high-frequency access networks with advanced architectures towards 6G
 - [Paolo Fiore]() (2021 - ): Resource Management and Optimization for Wireless Networks in Reconfigurable Environments
@@ -22,8 +23,7 @@ My research interests focus on wireless networks, touching theoretical, simulati
 ### Graduate Students
 
 - [Alberto Ceresoli]() (2025 - ): UE positioning microservices in O-RAN 5G networks
-- [Zahra Asgari]() (2024 - ): Planning Radio Access Networks in Smart Radio Environments
-- [Tugay Ozel]() (2024 - ): Impact of transport protocols on mm-wave access
+- [Stefano Biccari]() (2025 - ): 3GPP Wireless Access and Backhaul (WAB)
 
 ### PhD Alumni
 
@@ -41,7 +41,8 @@ My research interests focus on wireless networks, touching theoretical, simulati
   - Principal Researcher at NEC Laboratories Europe
 
 ### Graduate Alumni
-
+- Zahra Asgari - MS 2025: Optimizing 5G IAB Networks in Smart Radio Environments: A Reliability Perspective
+- Tugay Ozel - MS 2025: Experimental studies on Transport Protocols in a 5G mmWave network testbed
 - Claudia Baz Alvarez – MS 2024: O-RAN-Based Real-Time Positioning in 5G Networks: A Preliminary Analysis Using Uplink SRS
 - Niloufar Dinipour – MS 2024: Fronthaul-aware Radio Resource Management in Wireless C-RAN for 5G Networks
 - Ecem Izde Kaya – MS 2024: A Preliminary Analysis of 5G Uplink AoA Estimation
