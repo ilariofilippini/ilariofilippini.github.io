@@ -22,8 +22,11 @@ My research interests focus on wireless networks, touching theoretical, simulati
 
 ### Graduate Students
 
-- [Alberto Ceresoli]() (2025 - ): UE positioning microservices in O-RAN 5G networks
 - [Stefano Biccari]() (2025 - ): 3GPP Wireless Access and Backhaul (WAB)
+- [Alberto Ceresoli]() (2025 - ): UE positioning microservices in O-RAN 5G networks
+- [Nadia Sadeghi]() (2025 - ): Domain-specific LLM
+- [Melanny Davila]() (2024 - ): Phase recovery and localization
+- 
 
 ### PhD Alumni
 
