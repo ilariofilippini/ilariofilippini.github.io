@@ -446,6 +446,13 @@ ninja.data = [{
           window.open("mailto:%69%6C%61%72%69%6F _%44%4F%54_ %66%69%6C%69%70%70%69%6E%69 _%41%54_ %70%6F%6C%69%6D%69.%69%74", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/ilariofilippini# your GitHub user name", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
