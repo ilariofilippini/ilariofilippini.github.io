@@ -24,7 +24,6 @@ My research interests focus on wireless networks, touching theoretical, simulati
 
 - [Stefano Biccari]() (2025 - ): 3GPP Wireless Access and Backhaul (WAB)
 - [Alberto Ceresoli]() (2025 - ): UE positioning microservices in O-RAN 5G networks
-- [Nadia Sadeghi]() (2025 - ): Domain-specific LLM
 - [Melanny Davila]() (2024 - ): Phase recovery and localization
 
 ### PhD Alumni
@@ -43,6 +42,7 @@ My research interests focus on wireless networks, touching theoretical, simulati
   - Principal Researcher at NEC Laboratories Europe
 
 ### Graduate Alumni
+- Nadia Sadeghi - MS 2025: Design and Implementation of an Agentic RAG System for Evaluating RFP Responses
 - Zahra Asgari - MS 2025: Optimizing 5G IAB Networks in Smart Radio Environments: A Reliability Perspective
 - Tugay Ozel - MS 2025: Experimental studies on Transport Protocols in a 5G mmWave network testbed
 - Claudia Baz Alvarez – MS 2024: O-RAN-Based Real-Time Positioning in 5G Networks: A Preliminary Analysis Using Uplink SRS
