@@ -23,9 +23,9 @@
           </abbr>
         {% else %}
           {% if entry.journal %}
-          <abbr class="badge rounded w-100" style="background-color: blue;">{{ entry.abbr }}</abbr>
-          {% else %}
           <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
+          {% else %}
+          <abbr class="badge rounded w-100" style="background-color: MediumPurple;">{{ entry.abbr }}</abbr>
           {% endif %}
         {% endif %}
         {%- if entry.note -%}
