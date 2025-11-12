@@ -13,6 +13,7 @@ My research interests focus on wireless networks, touching theoretical, simulati
 
 ### PhD Students
 
+- [Alberto Ceresoli]() (2025 - ): Next-Generation Spectrum Sharing in Radio Access Networks
 - [Chiara Rubaltelli]() (2025 - ): Designing Next-Generation Radio Access Networks
 - [Viola Bernazzoli]() (2023 - ): Next-Generation Radio Access Networks for Smart Radio Environments
 - [Marcello Morini]() (2022 - ): System level analysis and experimentation of high-frequency access networks with advanced architectures towards 6G
@@ -23,8 +24,6 @@ My research interests focus on wireless networks, touching theoretical, simulati
 ### Graduate Students
 
 - [Stefano Biccari]() (2025 - ): 3GPP Wireless Access and Backhaul (WAB)
-- [Alberto Ceresoli]() (2025 - ): UE positioning microservices in O-RAN 5G networks
-- [Melanny Davila]() (2024 - ): Phase recovery and localization
 
 ### PhD Alumni
 
@@ -42,6 +41,8 @@ My research interests focus on wireless networks, touching theoretical, simulati
   - Principal Researcher at NEC Laboratories Europe
 
 ### Graduate Alumni
+- Alberto Ceresoli - MS 2025: AoA Services in 5G Networks: A Framework for Real-World Implementation and Systematic Testing
+- Melanny Davila - MS 2025: Phase Tracking in Unsynchronized Links as an application for User Localization in Multi-User MIMO 5G Systems
 - Nadia Sadeghi - MS 2025: Design and Implementation of an Agentic RAG System for Evaluating RFP Responses
 - Zahra Asgari - MS 2025: Optimizing 5G IAB Networks in Smart Radio Environments: A Reliability Perspective
 - Tugay Ozel - MS 2025: Experimental studies on Transport Protocols in a 5G mmWave network testbed
