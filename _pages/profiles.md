@@ -17,8 +17,6 @@ My research interests focus on wireless networks, touching theoretical, simulati
 - [Chiara Rubaltelli]() (2025 - ): Designing Next-Generation Radio Access Networks
 - [Viola Bernazzoli]() (2023 - ): Next-Generation Radio Access Networks for Smart Radio Environments
 - [Marcello Morini]() (2022 - ): System level analysis and experimentation of high-frequency access networks with advanced architectures towards 6G
-- [Paolo Fiore]() (2021 - ): Resource Management and Optimization for Wireless Networks in Reconfigurable Environments
-- [Franci Gjeci]() (2020 - ) (co-advised with Antonio Capone): Programmable Self-Organizing Radio Access Networks
 
 
 ### Graduate Students
@@ -26,10 +24,13 @@ My research interests focus on wireless networks, touching theoretical, simulati
 - [Stefano Biccari]() (2025 - ): 3GPP Wireless Access and Backhaul (WAB)
 
 ### PhD Alumni
-
+- Paolo Fiore – PhD 2026:
+  - Thesis: Impact Characterization of Smart Radio Access Network Devices in a Network-Wide Context
+- Franci Gjeci - PhD 2025 (co-advised with Antonio Capone):
+  - Thesis: Programmable Self-Organizing Radio Access Networks
 - Eugenio Moro - PhD 2023 (co-advised with Antonio Capone):
   - Thesis: A system-level perspective on new services and technologies for radio access networks
-  - Assistant Professor with Politecnico di Milano
+  - Senior System Engineer with Qualcomm Inc.
 - Bibo Zhang – PhD 2022:
   - Thesis: Reinforcement Learning techniques in 5G Networks
   - Lecturer with the Ocean College, Jiangsu University of Science and Technology, Zhenjiang, China
