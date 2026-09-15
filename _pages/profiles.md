@@ -16,15 +16,18 @@ My research interests focus on wireless networks, touching theoretical, simulati
 - [Alberto Ceresoli]() (2025 - ): Next-Generation Spectrum Sharing in Radio Access Networks
 - [Chiara Rubaltelli]() (2025 - ): Designing Next-Generation Radio Access Networks
 - [Viola Bernazzoli]() (2023 - ): Next-Generation Radio Access Networks for Smart Radio Environments
-- [Marcello Morini]() (2022 - ): System level analysis and experimentation of high-frequency access networks with advanced architectures towards 6G
 
 
 ### Graduate Students
 
 - [Ziyin You]()  (2026 -): 5G Network Planning for Communication and Localization
-- [Stefano Biccari]() (2025 - ): 3GPP Wireless Access and Backhaul (WAB)
+- [Negar Najafi]() (2026 - ): Analysis on RAN KPIs
 
+  
 ### PhD Alumni
+- Marcello Morini - PhD 2026
+  - Thesis: RAN Awareness: Analysis, Experimentation and Resource Allocation in Disaggregated Radio Access Networks
+  - Post-Doc with Politecnico di Milano
 - Paolo Fiore – PhD 2026:
   - Thesis: Impact Characterization of Smart Radio Access Network Devices in a Network-Wide Context
 - Franci Gjeci - PhD 2025 (co-advised with Antonio Capone):
