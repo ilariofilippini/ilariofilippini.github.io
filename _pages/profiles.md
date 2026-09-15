@@ -2,7 +2,7 @@
 layout: page
 permalink: /people/
 title: students
-description: #Students and collaborators I've worked with
+description: Students and collaborators I've worked with
 nav: true
 nav_order: 7
 ---
@@ -17,14 +17,13 @@ My research interests focus on wireless networks, touching theoretical, simulati
 - [Chiara Rubaltelli]() (2025 - ): Designing Next-Generation Radio Access Networks
 - [Viola Bernazzoli]() (2023 - ): Next-Generation Radio Access Networks for Smart Radio Environments
 
-
 ### Graduate Students
 
-- [Ziyin You]()  (2026 -): 5G Network Planning for Communication and Localization
+- [Ziyin You]() (2026 -): 5G Network Planning for Communication and Localization
 - [Negar Najafi]() (2026 - ): Analysis on RAN KPIs
 
-  
 ### PhD Alumni
+
 - Marcello Morini - PhD 2026:
   - Thesis: RAN Awareness: Analysis, Experimentation and Resource Allocation in Disaggregated Radio Access Networks
   - Post-Doc with Politecnico di Milano
@@ -46,6 +45,7 @@ My research interests focus on wireless networks, touching theoretical, simulati
   - Principal Researcher at NEC Laboratories Europe
 
 ### Graduate Alumni
+
 - Alberto Ceresoli - MS 2025: AoA Services in 5G Networks: A Framework for Real-World Implementation and Systematic Testing
 - Melanny Davila - MS 2025: Phase Tracking in Unsynchronized Links as an application for User Localization in Multi-User MIMO 5G Systems
 - Nadia Sadeghi - MS 2025: Design and Implementation of an Agentic RAG System for Evaluating RFP Responses
@@ -65,12 +65,10 @@ My research interests focus on wireless networks, touching theoretical, simulati
 - Paolo Fiore – MS 2021: Network planning models for RIS-assisted mm-Wave IAB Networks
 - Achilles Kiwanuka Machumilane – MS 2020: DASH video streaming in Integrated Satellite-5G networks
 - Mert Yuksel – MS 2019: Optimization Algorithms for 5G Millimeter-wave Access Networks with Integrated Access and Backhauling
-- Andres Herrera Alvarez – MS 2018: LoRa and Narrow-band IoT Deployment and Radio
-  Access Performance
+- Andres Herrera Alvarez – MS 2018: LoRa and Narrow-band IoT Deployment and Radio Access Performance
 - Giuseppe Maldari – MS 2018: Node Relocation in 5G Mm-wave Access Networks
 - Mohammad Nourifar – MS 2018: Blockage-robust 5G mm-wave access network planning
 - Raffaele Pico – MS 2018: Energy saving modelling and prediction in LTE networks
 - Fedor Zhukov – MS 2017: 3D directional cell discovery for mm-wave access
-- Johanna Bolivar Gonzalez – MS 2017: Cell discovery algorithms for mm-wave access of highly
-  directional devices
+- Johanna Bolivar Gonzalez – MS 2017: Cell discovery algorithms for mm-wave access of highly directional devices
 - Nicola Rosada – MS 2016: Clustered robust routing solutions in software defined networks
