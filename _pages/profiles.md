@@ -25,7 +25,7 @@ My research interests focus on wireless networks, touching theoretical, simulati
 
   
 ### PhD Alumni
-- Marcello Morini - PhD 2026
+- Marcello Morini - PhD 2026:
   - Thesis: RAN Awareness: Analysis, Experimentation and Resource Allocation in Disaggregated Radio Access Networks
   - Post-Doc with Politecnico di Milano
 - Paolo Fiore – PhD 2026:
