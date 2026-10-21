@@ -19,8 +19,8 @@ My research interests focus on wireless networks, touching theoretical, simulati
 
 ### Graduate Students
 
+- [Manuele Moro]() (2026 -): RAN-aware Resource Allocation in Next-Generation Radio Access Networks
 - [Ziyin You]() (2026 -): 5G Network Planning for Communication and Localization
-- [Negar Najafi]() (2026 - ): Analysis on RAN KPIs
 
 ### PhD Alumni
 
@@ -46,6 +46,7 @@ My research interests focus on wireless networks, touching theoretical, simulati
 
 ### Graduate Alumni
 
+- Negar Najafi - MS 2026: From Channel Quality to Traffic Patterns: Insights into Cellular Network Operations
 - Alberto Ceresoli - MS 2025: AoA Services in 5G Networks: A Framework for Real-World Implementation and Systematic Testing
 - Melanny Davila - MS 2025: Phase Tracking in Unsynchronized Links as an application for User Localization in Multi-User MIMO 5G Systems
 - Nadia Sadeghi - MS 2025: Design and Implementation of an Agentic RAG System for Evaluating RFP Responses
